@@ -23,5 +23,5 @@ The moving average strategy underperformed buy-and-hold because moving averages 
 
 
 ## Charts
-![Moving Average](movingaverage_price_date.jpg)
-![Backtest](backtest.jpg)
+![Moving Average](quant_projects/movingaverage_price_date.jpg)
+![Backtest](quant_projects/backtest.jpg)
